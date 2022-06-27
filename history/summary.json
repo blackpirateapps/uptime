@@ -4,9 +4,9 @@
     "url": "https://blog.blackpiratex.com",
     "icon": "https://favicons.githubusercontent.com/blog.blackpiratex.com",
     "slug": "blog-by-black-pirate-x",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 188,
     "timeMonth": 242,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-27": 0
+    }
   },
   {
     "name": "BlackPirateX GitHub Mirror",
@@ -60,9 +62,9 @@
     "url": "https://blackpiratex.com",
     "icon": "https://favicons.githubusercontent.com/blackpiratex.com",
     "slug": "black-pirate-x-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +73,9 @@
     "timeWeek": 136,
     "timeMonth": 236,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-27": 0
+    }
   },
   {
     "name": "BlackPirateX Analytics",
@@ -97,11 +101,11 @@
     "icon": "https://favicons.githubusercontent.com/status.blackpiratex.com",
     "slug": "black-pirate-status",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 158,
     "timeDay": 130,
     "timeWeek": 131,
