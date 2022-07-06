@@ -4,19 +4,19 @@
     "url": "https://blog.blackpiratex.com",
     "icon": "https://favicons.githubusercontent.com/blog.blackpiratex.com",
     "slug": "blog-by-black-pirate-x",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 952,
-    "timeWeek": 274,
-    "timeMonth": 304,
-    "timeYear": 393,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 388,
+    "timeDay": 565,
+    "timeWeek": 262,
+    "timeMonth": 301,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-07-06": 0
+      "2022-07-06": 17
     }
   },
   {
@@ -83,19 +83,19 @@
     "url": "https://ant.blackpiratex.com",
     "icon": "https://favicons.githubusercontent.com/ant.blackpiratex.com",
     "slug": "black-pirate-x-analytics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 141,
-    "timeWeek": 123,
-    "timeMonth": 830,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 644,
+    "timeDay": 125,
+    "timeWeek": 121,
+    "timeMonth": 806,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2022-07-06": 0
+      "2022-07-06": 17
     }
   },
   {
