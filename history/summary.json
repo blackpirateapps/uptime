@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 388,
-    "timeDay": 862,
-    "timeWeek": 418,
-    "timeMonth": 359,
-    "timeYear": 388,
+    "time": 391,
+    "timeDay": 521,
+    "timeWeek": 342,
+    "timeMonth": 368,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2022-07-06": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 216,
-    "timeWeek": 108,
+    "time": 145,
+    "timeDay": 185,
+    "timeWeek": 123,
     "timeMonth": 143,
-    "timeYear": 144,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.78%",
     "time": 168,
-    "timeDay": 152,
-    "timeWeek": 116,
-    "timeMonth": 144,
+    "timeDay": 214,
+    "timeWeek": 125,
+    "timeMonth": 145,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2022-07-01": 26,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 853,
-    "timeWeek": 276,
-    "timeMonth": 291,
-    "timeYear": 277,
+    "time": 274,
+    "timeDay": 101,
+    "timeWeek": 278,
+    "timeMonth": 290,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 654,
-    "timeDay": 2756,
-    "timeWeek": 783,
-    "timeMonth": 553,
-    "timeYear": 654,
+    "time": 659,
+    "timeDay": 951,
+    "timeWeek": 890,
+    "timeMonth": 580,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2022-07-06": 17
     }
@@ -104,16 +104,16 @@
     "icon": "https://favicons.githubusercontent.com/status.blackpiratex.com",
     "slug": "black-pirate-status",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
-    "time": 142,
-    "timeDay": 127,
-    "timeWeek": 110,
-    "timeMonth": 120,
-    "timeYear": 142,
+    "uptimeYear": "99.74%",
+    "time": 141,
+    "timeDay": 114,
+    "timeWeek": 113,
+    "timeMonth": 117,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2022-05-24": 194
     }
