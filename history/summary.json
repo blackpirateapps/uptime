@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 383,
-    "timeDay": 141,
-    "timeWeek": 344,
+    "time": 380,
+    "timeDay": 239,
+    "timeWeek": 369,
     "timeMonth": 363,
-    "timeYear": 383,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2022-07-06": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 141,
-    "timeWeek": 138,
-    "timeMonth": 139,
-    "timeYear": 144,
+    "time": 146,
+    "timeDay": 257,
+    "timeWeek": 160,
+    "timeMonth": 144,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.79%",
     "time": 168,
-    "timeDay": 140,
-    "timeWeek": 136,
+    "timeDay": 168,
+    "timeWeek": 140,
     "timeMonth": 145,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 80,
-    "timeWeek": 283,
-    "timeMonth": 280,
-    "timeYear": 269,
+    "time": 268,
+    "timeDay": 213,
+    "timeWeek": 298,
+    "timeMonth": 284,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 641,
-    "timeDay": 104,
-    "timeWeek": 879,
-    "timeMonth": 522,
-    "timeYear": 641,
+    "time": 633,
+    "timeDay": 199,
+    "timeWeek": 886,
+    "timeMonth": 525,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2022-07-06": 17
     }
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 140,
-    "timeDay": 126,
+    "time": 139,
+    "timeDay": 109,
     "timeWeek": 111,
-    "timeMonth": 112,
-    "timeYear": 140,
+    "timeMonth": 114,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2022-05-24": 194
     }
