@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 370,
-    "timeDay": 239,
-    "timeWeek": 228,
-    "timeMonth": 323,
-    "timeYear": 370,
+    "time": 367,
+    "timeDay": 108,
+    "timeWeek": 218,
+    "timeMonth": 317,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-07-06": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 140,
-    "timeWeek": 143,
-    "timeMonth": 132,
+    "timeDay": 166,
+    "timeWeek": 154,
+    "timeMonth": 133,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.83%",
     "time": 175,
-    "timeDay": 170,
+    "timeDay": 108,
     "timeWeek": 201,
-    "timeMonth": 171,
+    "timeMonth": 170,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2022-07-01": 26,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 213,
-    "timeWeek": 294,
-    "timeMonth": 306,
-    "timeYear": 265,
+    "time": 263,
+    "timeDay": 152,
+    "timeWeek": 307,
+    "timeMonth": 302,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 578,
-    "timeDay": 255,
-    "timeWeek": 290,
-    "timeMonth": 385,
-    "timeYear": 578,
+    "time": 572,
+    "timeDay": 157,
+    "timeWeek": 292,
+    "timeMonth": 378,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2022-07-06": 17
     }
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 141,
-    "timeDay": 280,
-    "timeWeek": 155,
-    "timeMonth": 122,
-    "timeYear": 141,
+    "time": 144,
+    "timeDay": 376,
+    "timeWeek": 198,
+    "timeMonth": 130,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2022-05-24": 194
     }
