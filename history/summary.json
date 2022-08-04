@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 368,
-    "timeDay": 790,
-    "timeWeek": 303,
-    "timeMonth": 334,
-    "timeYear": 368,
+    "time": 367,
+    "timeDay": 273,
+    "timeWeek": 323,
+    "timeMonth": 339,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-07-06": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 154,
-    "timeWeek": 144,
-    "timeMonth": 139,
+    "timeDay": 180,
+    "timeWeek": 157,
+    "timeMonth": 142,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 174,
-    "timeDay": 148,
-    "timeWeek": 174,
-    "timeMonth": 174,
+    "timeDay": 198,
+    "timeWeek": 151,
+    "timeMonth": 177,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2022-07-01": 26,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 71,
-    "timeWeek": 146,
-    "timeMonth": 286,
-    "timeYear": 258,
+    "time": 259,
+    "timeDay": 348,
+    "timeWeek": 178,
+    "timeMonth": 211,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 627,
-    "timeDay": 5417,
-    "timeWeek": 991,
-    "timeMonth": 542,
-    "timeYear": 627,
+    "time": 625,
+    "timeDay": 506,
+    "timeWeek": 1044,
+    "timeMonth": 554,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2022-07-06": 17
     }
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 148,
-    "timeDay": 279,
-    "timeWeek": 234,
-    "timeMonth": 142,
-    "timeYear": 148,
+    "time": 161,
+    "timeDay": 1052,
+    "timeWeek": 366,
+    "timeMonth": 173,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2022-05-24": 194
     }
