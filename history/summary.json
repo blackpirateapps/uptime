@@ -103,18 +103,19 @@
     "url": "https://status.blackpiratex.com",
     "icon": "https://favicons.githubusercontent.com/status.blackpiratex.com",
     "slug": "black-pirate-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 168,
-    "timeDay": 684,
-    "timeWeek": 442,
-    "timeMonth": 191,
-    "timeYear": 168,
+    "time": 198,
+    "timeDay": 1580,
+    "timeWeek": 697,
+    "timeMonth": 263,
+    "timeYear": 198,
     "dailyMinutesDown": {
+      "2022-08-05": 0,
       "2022-05-24": 194
     }
   }
