@@ -84,9 +84,9 @@
     "url": "https://ant.blackpiratex.com",
     "icon": "https://favicons.githubusercontent.com/ant.blackpiratex.com",
     "slug": "black-pirate-x-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -96,6 +96,7 @@
     "timeMonth": 459,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2022-08-20": 0,
       "2022-07-06": 17
     }
   },
@@ -104,10 +105,10 @@
     "url": "https://status.blackpiratex.com",
     "icon": "https://favicons.githubusercontent.com/status.blackpiratex.com",
     "slug": "black-pirate-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.77%",
     "time": 473,
@@ -116,6 +117,7 @@
     "timeMonth": 997,
     "timeYear": 473,
     "dailyMinutesDown": {
+      "2022-08-20": 0,
       "2022-08-16": 50,
       "2022-08-05": 45,
       "2022-05-24": 194
