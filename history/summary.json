@@ -66,9 +66,9 @@
     "url": "https://blackpiratex.com",
     "icon": "https://favicons.githubusercontent.com/blackpiratex.com",
     "slug": "black-pirate-x-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,7 +77,9 @@
     "timeWeek": 348,
     "timeMonth": 219,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-25": 0
+    }
   },
   {
     "name": "BlackPirateX Analytics",
