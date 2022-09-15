@@ -25,9 +25,9 @@
     "url": "https://mirror.blackpiratex.com",
     "icon": "https://favicons.githubusercontent.com/mirror.blackpiratex.com",
     "slug": "black-pirate-x-git-hub-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 116,
     "timeMonth": 134,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "BlackPirateX Cloudflare Mirror",
@@ -44,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/mirror2.blackpiratex.com",
     "slug": "black-pirate-x-cloudflare-mirror",
     "status": "down",
-    "uptime": "96.74%",
-    "uptimeDay": "10.82%",
-    "uptimeWeek": "49.24%",
-    "uptimeMonth": "88.10%",
-    "uptimeYear": "96.74%",
+    "uptime": "96.12%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "42.81%",
+    "uptimeMonth": "85.64%",
+    "uptimeYear": "96.12%",
     "time": 187,
-    "timeDay": 164,
+    "timeDay": 112,
     "timeWeek": 194,
     "timeMonth": 195,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-09-15": 59,
+      "2022-09-15": 1136,
       "2022-09-14": 1283,
       "2022-09-13": 567,
       "2022-09-12": 670,
