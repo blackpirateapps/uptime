@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 85,
-    "timeWeek": 183,
-    "timeMonth": 173,
+    "timeDay": 112,
+    "timeWeek": 167,
+    "timeMonth": 171,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2023-07-25": 26
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 85,
-    "timeWeek": 148,
-    "timeMonth": 138,
-    "timeYear": 156,
+    "timeDay": 65,
+    "timeWeek": 127,
+    "timeMonth": 137,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror2.blackpiratex.com.ico",
     "slug": "black-pirate-x-cloudflare-mirror",
     "status": "down",
-    "uptime": "22.18%",
+    "uptime": "22.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 183,
-    "timeDay": 158,
-    "timeWeek": 172,
+    "timeDay": 137,
+    "timeWeek": 168,
     "timeMonth": 161,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-10-06": 35,
+      "2023-10-07": 34,
+      "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -417,8 +418,7 @@
       "2022-10-11": 1440,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
-      "2022-10-08": 1440,
-      "2022-10-07": 1440
+      "2022-10-08": 1440
     }
   },
   {
@@ -433,8 +433,8 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 174,
-    "timeDay": 93,
-    "timeWeek": 136,
+    "timeDay": 63,
+    "timeWeek": 127,
     "timeMonth": 260,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -458,10 +458,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 417,
-    "timeDay": 78,
-    "timeWeek": 246,
-    "timeMonth": 544,
-    "timeYear": 399,
+    "timeDay": 72,
+    "timeWeek": 221,
+    "timeMonth": 543,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2023-07-25": 26,
       "2023-03-06": 18,
@@ -480,8 +480,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 309,
-    "timeDay": 138,
-    "timeWeek": 216,
+    "timeDay": 94,
+    "timeWeek": 129,
     "timeMonth": 139,
     "timeYear": 161,
     "dailyMinutesDown": {
