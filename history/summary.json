@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 368,
-    "timeWeek": 187,
-    "timeMonth": 173,
+    "timeDay": 112,
+    "timeWeek": 174,
+    "timeMonth": 172,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2023-07-25": 26
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 73,
-    "timeWeek": 125,
-    "timeMonth": 123,
+    "timeDay": 217,
+    "timeWeek": 133,
+    "timeMonth": 125,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror2.blackpiratex.com.ico",
     "slug": "black-pirate-x-cloudflare-mirror",
     "status": "down",
-    "uptime": "19.56%",
+    "uptime": "19.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 182,
-    "timeDay": 128,
-    "timeWeek": 167,
-    "timeMonth": 165,
+    "time": 181,
+    "timeDay": 134,
+    "timeWeek": 168,
+    "timeMonth": 163,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2023-12-12": 38,
+      "2023-12-13": 37,
+      "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
@@ -417,8 +418,7 @@
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
-      "2022-12-14": 1440,
-      "2022-12-13": 1440
+      "2022-12-14": 1440
     }
   },
   {
@@ -432,17 +432,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 160,
-    "timeDay": 57,
-    "timeWeek": 101,
-    "timeMonth": 160,
-    "timeYear": 157,
+    "time": 161,
+    "timeDay": 504,
+    "timeWeek": 141,
+    "timeMonth": 173,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2023-09-13": 69,
       "2023-09-12": 5,
       "2023-03-06": 18,
-      "2023-02-14": 20,
-      "2022-12-13": 23
+      "2023-02-14": 20
     }
   },
   {
@@ -454,19 +453,18 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 365,
-    "timeDay": 141,
-    "timeWeek": 133,
-    "timeMonth": 160,
+    "timeDay": 470,
+    "timeWeek": 170,
+    "timeMonth": 170,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2023-11-14": 15,
       "2023-11-12": 30,
       "2023-07-25": 26,
-      "2023-03-06": 18,
-      "2022-12-13": 23
+      "2023-03-06": 18
     }
   },
   {
@@ -475,19 +473,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.blackpiratex.com.ico",
     "slug": "black-pirate-status",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 282,
-    "timeDay": 68,
-    "timeWeek": 109,
-    "timeMonth": 98,
+    "time": 271,
+    "timeDay": 70,
+    "timeWeek": 105,
+    "timeMonth": 94,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-02-11": 27,
-      "2022-12-13": 95
+      "2023-02-11": 27
     }
   }
 ]
