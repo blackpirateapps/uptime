@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 156,
-    "timeWeek": 156,
-    "timeMonth": 161,
-    "timeYear": 235,
+    "timeDay": 76,
+    "timeWeek": 142,
+    "timeMonth": 158,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2023-07-25": 26
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 140,
-    "timeWeek": 119,
-    "timeMonth": 125,
+    "timeDay": 168,
+    "timeWeek": 111,
+    "timeMonth": 127,
     "timeYear": 161,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror2.blackpiratex.com.ico",
     "slug": "black-pirate-x-cloudflare-mirror",
     "status": "down",
-    "uptime": "18.96%",
+    "uptime": "18.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 180,
-    "timeDay": 179,
-    "timeWeek": 185,
+    "timeDay": 147,
+    "timeWeek": 169,
     "timeMonth": 169,
-    "timeYear": 171,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-12-30": 36,
+      "2023-12-31": 40,
+      "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
@@ -417,8 +418,7 @@
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
-      "2023-01-01": 1440,
-      "2022-12-31": 1440
+      "2023-01-01": 1440
     }
   },
   {
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 160,
-    "timeDay": 127,
-    "timeWeek": 125,
-    "timeMonth": 146,
+    "timeDay": 68,
+    "timeWeek": 115,
+    "timeMonth": 143,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2023-09-13": 69,
@@ -456,9 +456,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 349,
-    "timeDay": 453,
-    "timeWeek": 227,
-    "timeMonth": 168,
+    "timeDay": 142,
+    "timeWeek": 225,
+    "timeMonth": 167,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2023-12-19": 21,
@@ -480,9 +480,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 227,
-    "timeDay": 132,
-    "timeWeek": 109,
-    "timeMonth": 91,
+    "timeDay": 54,
+    "timeWeek": 104,
+    "timeMonth": 90,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2023-02-11": 27
