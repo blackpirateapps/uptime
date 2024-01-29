@@ -55,7 +55,7 @@
     "timeMonth": 175,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-01-29": 36,
+      "2024-01-29": 438,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -450,9 +450,9 @@
     "url": "https://ant.blackpiratex.com",
     "icon": "https://icons.duckduckgo.com/ip3/ant.blackpiratex.com.ico",
     "slug": "black-pirate-x-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -462,6 +462,7 @@
     "timeMonth": 162,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2023-12-19": 21,
       "2023-11-14": 15,
       "2023-11-12": 30,
