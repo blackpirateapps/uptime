@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror2.blackpiratex.com.ico",
     "slug": "black-pirate-x-cloudflare-mirror",
     "status": "down",
-    "uptime": "16.76%",
+    "uptime": "16.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -55,7 +55,7 @@
     "timeMonth": 159,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-03-16": 34,
+      "2024-03-16": 231,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -427,9 +427,9 @@
     "url": "https://blackpiratex.com",
     "icon": "https://icons.duckduckgo.com/ip3/blackpiratex.com.ico",
     "slug": "black-pirate-x-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -439,6 +439,7 @@
     "timeMonth": 147,
     "timeYear": 149,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2023-09-13": 69,
       "2023-09-12": 5
     }
