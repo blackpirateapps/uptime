@@ -52,7 +52,7 @@
     "timeMonth": 182,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-04-03": 53,
+      "2025-04-03": 102,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -475,9 +475,9 @@
     "url": "https://status.blackpiratex.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.blackpiratex.com.ico",
     "slug": "black-pirate-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -486,6 +486,8 @@
     "timeWeek": 126,
     "timeMonth": 128,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   }
 ]
