@@ -4,7 +4,7 @@
     "url": "https://blog.blackpiratex.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.blackpiratex.com.ico",
     "slug": "blog-by-black-pirate-x",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 237,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-11": 153
     }
   },
@@ -45,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror2.blackpiratex.com.ico",
     "slug": "black-pirate-x-cloudflare-mirror",
     "status": "down",
-    "uptime": "10.63%",
+    "uptime": "10.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "13.54%",
@@ -56,7 +57,7 @@
     "timeMonth": 234,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-05-07": 56,
+      "2025-05-07": 699,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
