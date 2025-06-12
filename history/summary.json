@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 220,
-    "timeDay": 212,
-    "timeWeek": 556,
+    "timeDay": 220,
+    "timeWeek": 567,
     "timeMonth": 315,
     "timeYear": 233,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 158,
-    "timeDay": 186,
-    "timeWeek": 172,
+    "timeDay": 199,
+    "timeWeek": 174,
     "timeMonth": 160,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror2.blackpiratex.com.ico",
     "slug": "black-pirate-x-cloudflare-mirror",
     "status": "down",
-    "uptime": "10.29%",
+    "uptime": "10.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.01%",
     "time": 185,
-    "timeDay": 296,
-    "timeWeek": 237,
-    "timeMonth": 195,
-    "timeYear": 189,
+    "timeDay": 142,
+    "timeWeek": 223,
+    "timeMonth": 194,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-06-11": 58,
+      "2025-06-12": 58,
+      "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -416,8 +417,7 @@
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
-      "2024-06-13": 1440,
-      "2024-06-12": 1440
+      "2024-06-13": 1440
     }
   },
   {
@@ -431,10 +431,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 184,
-    "timeDay": 155,
-    "timeWeek": 143,
-    "timeMonth": 234,
+    "time": 185,
+    "timeDay": 142,
+    "timeWeek": 141,
+    "timeMonth": 228,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-04-11": 232,
@@ -453,8 +453,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 279,
-    "timeDay": 728,
-    "timeWeek": 1020,
+    "timeDay": 243,
+    "timeWeek": 1033,
     "timeMonth": 594,
     "timeYear": 325,
     "dailyMinutesDown": {
@@ -468,8 +468,7 @@
       "2024-08-28": 15,
       "2024-08-20": 27,
       "2024-07-14": 26,
-      "2024-07-10": 18,
-      "2024-06-12": 21
+      "2024-07-10": 18
     }
   },
   {
@@ -484,9 +483,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 155,
-    "timeDay": 168,
-    "timeWeek": 133,
-    "timeMonth": 136,
+    "timeDay": 107,
+    "timeWeek": 134,
+    "timeMonth": 134,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2025-04-11": 153,
